@@ -259,6 +259,7 @@ Utillites or coman
 	font-size: 25px;
 	color: #ffffff;
 	z-index: 1;
+	transform: rotate(351deg);
 }
 .tenYear {
 	font-weight: 700;
@@ -318,6 +319,7 @@ Utillites or coman
 .icone:hover {
 	background-color: #ff900e;
 	color: #ffffff;
+	transform: rotate(-90deg);
 }
 .icone:hover > .icone-name {
 	color: #fff4e7;
