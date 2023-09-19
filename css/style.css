@@ -269,7 +269,8 @@
 .icone:hover {
 	background-color: #ff900e;
 	color: #ffffff;
-	transform: rotate(-90deg);
+	transform: rotate(-360deg);
+	transition-duration: 5s;
 }
 .icone:hover > .icone-name {
 	color: #fff4e7;
